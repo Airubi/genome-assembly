@@ -1,0 +1,23 @@
+Assembly                    assembly   assembly_racon1  consensus
+# contigs (>= 0 bp)         2          2                2        
+# contigs (>= 1000 bp)      2          2                2        
+# contigs (>= 5000 bp)      2          2                2        
+# contigs (>= 10000 bp)     2          2                2        
+# contigs (>= 25000 bp)     2          2                2        
+# contigs (>= 50000 bp)     2          2                2        
+Total length (>= 0 bp)      5304391    5304356          5304696  
+Total length (>= 1000 bp)   5304391    5304356          5304696  
+Total length (>= 5000 bp)   5304391    5304356          5304696  
+Total length (>= 10000 bp)  5304391    5304356          5304696  
+Total length (>= 25000 bp)  5304391    5304356          5304696  
+Total length (>= 50000 bp)  5304391    5304356          5304696  
+# contigs                   2          2                2        
+Largest contig              5142738    5142735          5143021  
+Total length                5304391    5304356          5304696  
+GC (%)                      50.71      50.71            50.71    
+N50                         5142738    5142735          5143021  
+N90                         5142738    5142735          5143021  
+auN                         4990937.9  4990963.0        4991201.0
+L50                         1          1                1        
+L90                         1          1                1        
+# N's per 100 kbp           0.00       0.00             0.00     

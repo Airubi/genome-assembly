@@ -1,0 +1,22 @@
+# Raw sequencing reads
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Alignment files
+*.bam
+*.bai
+*.sam
+*.paf
+
+# Large intermediate outputs
+filtered/
+flye_output/
+medaka_output/
+SRR27502765/
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
